@@ -21,7 +21,7 @@
 
 ## Conclusions
 - Various methods like EDA, feature selection, multicolinearity assessment were used. Data was scaled and fit against regression model.
-- windspeed, date of the year i.e. which in turn depends on season, and temprate best desribe and fit the regression model. 
+- actual temparature, seaon particularly winter and clear weather best desribe and fit the regression model. 
 - public holidays have little impact on demand
 
 
